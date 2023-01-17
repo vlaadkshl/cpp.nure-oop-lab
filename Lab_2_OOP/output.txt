@@ -1,0 +1,22 @@
+FIRST TASK:
+Name: Name	Adress: City, Street str., 5
+
+SECOND TASK:
+Book a isn't available
+
+THIRD TASK
+The average number of checked out books is 520
+
+FOURTH TASK:
+Second book (2007) is added
+
+FIFTH TASK:
+Completed.
+New book list is:
+1.	Second book	2007
+
+SIXTH TASK:
+All books are checked out earlier.
+
+SEVENTH TASK:
+Percentage of fully given book is -nan(ind)%
