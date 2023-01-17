@@ -1,0 +1,45 @@
+=== Library: Library_1 ===
+Adress:	Kyiv, Khreshchatyk str., 1
+1.	Book1 (2004):
+	Available: 120
+	Published: 1
+2.	Book2 (2021):
+	Available: 10
+	Published: 9
+3.	Book3 (2020):
+	Available: 850
+	Published: 4
+
+=== Library: Library_2 ===
+Adress:	Kharkiv, Yarosha str., 15
+1.	First (2010):
+	Available: 140
+	Published: 140
+2.	Second (2022):
+	Available: 100
+	Published: 0
+3.	Third (2021):
+	Available: 450
+	Published: 420
+4.	Fourth (1984):
+	Available: 1000
+	Published: 80
+5.	Fifth (2000):
+	Available: 1
+	Published: 1
+
+=== Library: Library_3 ===
+Adress:	Kharkiv, Nauky str., 100
+1.	First (2010):
+	Available: 140
+	Published: 140
+2.	Second (2022):
+	Available: 100
+	Published: 0
+3.	Third (2021):
+	Available: 450
+	Published: 420
+4.	Fourth (1984):
+	Available: 1000
+	Published: 80
+
