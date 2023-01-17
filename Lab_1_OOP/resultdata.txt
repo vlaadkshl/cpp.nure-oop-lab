@@ -1,0 +1,7 @@
+TASK 3. Computers whose CPU frequency is higher than average
+Average CPU freq: 3248.33
+
+APPLE................32....3400
+IBM...................8....4500
+
+APPLE................32....3400
